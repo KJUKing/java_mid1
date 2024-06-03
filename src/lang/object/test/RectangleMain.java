@@ -1,6 +1,4 @@
-package lang.test;
-
-import java.awt.*;
+package lang.object.test;
 
 public class RectangleMain {
     public static void main(String[] args) {
